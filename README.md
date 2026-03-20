@@ -6,14 +6,12 @@
 
 ###  Integrantes:
 * **Pedro Gustavo Franca Moreira**
+* **RM568262**
 
 ###  Professores:
 
-**Tutor(a)**
-* *(inserir nome do tutor)*
-
 **Coordenador(a)**
-* *(inserir nome do coordenador)*
+* *(André Godoi)*
 
 ---
 
@@ -78,17 +76,16 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 - `matplotlib` / `seaborn` — visualização de dados
 - `scikit-learn` — modelos de Machine Learning e pré-processamento
 
-Todas as bibliotecas já estão disponíveis no ambiente padrão do Google Colab, sem necessidade de instalação adicional.
 
 ---
 
 ## 🗃 Histórico de lançamentos
 
-* 0.1.0 - *(inserir data)* — Versão inicial: análise exploratória e clusterização
-* 0.2.0 - *(inserir data)* — Adição dos 5 modelos preditivos de regressão
-* 0.3.0 - *(inserir data)* — Estimativa de custos AWS e justificativa de região
-* 0.4.0 - *(inserir data)* — Revisão geral e documentação final
-* 0.5.0 - *(inserir data)* — Entrega final
+* 0.1.0 - *(20/03/26)* — Versão inicial: análise exploratória e clusterização
+* 0.2.0 - *(20/03/26)* — Adição dos 5 modelos preditivos de regressão
+* 0.3.0 - *(20/03/26)* — Estimativa de custos AWS e justificativa de região
+* 0.4.0 - *(21/03/26)* — Revisão geral e documentação final
+* 0.5.0 - *(21/03/26)* — Entrega final
 
 ---
 
