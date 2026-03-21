@@ -91,5 +91,5 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 📹 Vídeos Demonstrativos
 
-- **Entrega 1 — Machine Learning:** *(inserir link do YouTube)*
-- **Entrega 2 — AWS Cloud:** *(inserir link do YouTube)*
+- **Entrega 1 — Machine Learning:** *(https://youtu.be/b3dY15Qy7i0?si=0UMVP6yN9I73wLca)*
+- **Entrega 2 — AWS Cloud:** *(https://youtu.be/YU79-mJUoQU?si=t56HNyUZOsZRlr9x)*
